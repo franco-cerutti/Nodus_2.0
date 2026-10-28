@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+backend/Nodus.Api/wwwroot/
+appsettings.Development.json
+appsettings.Production.json
+
+# Node
+node_modules/
+frontend/dist/
+.env
+.env.local
